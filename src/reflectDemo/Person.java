@@ -14,6 +14,6 @@ public class Person {
     }
     //公有方法
     public void work(){
-        System.out.println("public work()...");
+        System.out.println("public work(1...");
     }
 }
