@@ -1,12 +1,9 @@
-package sort;
-
 public class ExchangeTwoNumber {
     public static void main(String[] args) {
         int a=-8,b=4;
 //        demo1(a,b);
 //        demo2(a,b);
 //        demo3(a,b);
-        System.out.println(a>>>2);
 
     }
 
