@@ -10,6 +10,7 @@ public class Person1 {
         String d = b + c;
         System.out.println(a == MESSAGE);
         System.out.println((b + c) == MESSAGE);
+        
         System.out.println(d == MESSAGE);
     }
 
