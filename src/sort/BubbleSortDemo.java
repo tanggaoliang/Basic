@@ -1,7 +1,5 @@
 package sort;
 
-import sun.plugin.javascript.navig.Array;
-
 import java.util.Arrays;
 
 public class BubbleSortDemo {

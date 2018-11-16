@@ -11,10 +11,11 @@ public class InsertionSortDemo {
     }
 
     private static void InsertionSort(int[] arr) {
-        if (arr.length < 2) {
+        int len = arr.length;
+        if (len < 2) {
             return;
         }
-        for (int i = 1; i < arr.length; i++) {
+        for (int i = 1; i < len; i++) {
             int temp = arr[i];
             int leftIndex = i - 1;
             while (leftIndex >= 0 && arr[leftIndex] > temp) {

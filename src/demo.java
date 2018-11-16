@@ -5,10 +5,15 @@ import java.util.List;
 
 public class demo {
     public static void main(String[] args) {
-        StringBuffer a = new StringBuffer("A");
-        StringBuffer b = new StringBuffer("B");
-        operator(a, b);
-        System.out.println(a + "," + b);
+        Integer s = new Integer(9);
+        Integer t = new Integer(9);
+        int a=9;
+        Long u = new Long(9);
+        System.out.println(s==a);
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
     }
 
     public static void operator(StringBuffer x, StringBuffer y) {
