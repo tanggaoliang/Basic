@@ -16,13 +16,6 @@ public class Demo {
 
     }
 
-    private static int calc2(int x, int y, int i, int j) {
-        if (x == 0 || y == 0) {
-            return 1;
-        }
-        return 0;
-
-    }
 
     private static long threeDimensional(int x, int y, int z) {
         if (x == 0 || y == 0 || z == 0) {
