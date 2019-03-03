@@ -8,10 +8,14 @@ public class Person1 {
         String b = "tao";
         String c = "bao";
         String d = b + c;
-        System.out.println(a == MESSAGE);
-        System.out.println((b + c) == MESSAGE);
+//        System.out.println(a == MESSAGE);
+//        System.out.println((b + c).intern() == MESSAGE);
 
-        System.out.println(d == MESSAGE);
+//        System.out.println(d.intern() == MESSAGE);
+        System.out.println("equals test");
+        System.out.println(d==MESSAGE);//false
+        System.out.println(d.equals(MESSAGE));//true
+
     }
 
 }

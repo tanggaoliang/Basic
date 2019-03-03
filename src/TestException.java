@@ -1,4 +1,3 @@
-package exception;
 
 import java.io.*;
 
@@ -6,7 +5,7 @@ public class TestException {
 
     public static void main(String[] args) {
         // 向文件lol2.txt中写入三行语句
-        File f = new File("d:/lol2.txt");
+        File f = new File("d:/exception.txt");
 
         try (
                 // 创建文件字符流

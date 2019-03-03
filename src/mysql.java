@@ -8,7 +8,7 @@ public class mysql {
         String username = "root";
         String password = "admin";
         String url = "jdbc:mysql:///Clinic";
-        String sql = "INSERT INTO employee(name,position,email,mobilephonenumber) VALUES ('zhaoliu','牙医','gao@123.com','15055631901')";
+        String sql = "INSERT INTO employee(name,position,email,mobilephonenumber) VALUES ('zhao long','牙医','gao@123.com','15055631901')";
         String sql1="select * from employee";
         Connection connection = DriverManager.getConnection(url, username, password);
         Statement statement=connection.createStatement();

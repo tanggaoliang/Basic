@@ -3,8 +3,8 @@ package WalkWays;
 public class Demo {
     public static void main(String[] args) {
         System.out.println(calc(5, 5));
-        System.out.println(threeDimensional(5, 5, 5));
-        System.out.println(reverseIntHelper(123,0));
+//        System.out.println(threeDimensional(5, 5, 5));
+//        System.out.println(reverseIntHelper(123,0));
     }
 
     private static int calc(int x, int y) {

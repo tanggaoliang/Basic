@@ -1,7 +1,7 @@
 public class FIbnacciAndFactorial {
 
     public static void main(String[] args) {
-        System.out.println(fac3(3));
+        System.out.println(fac2(3));
 
     }
 
@@ -31,15 +31,13 @@ public class FIbnacciAndFactorial {
             first = last;
             last += temp;
             n--;
-
-
         }
         return last;
 
 
     }
 
-    public static long fac3(int n) {
+    public static long Factorial(int n) {
         long result = 1, i = 2;
         if (n == 1) {
             return 1;

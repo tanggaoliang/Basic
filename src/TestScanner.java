@@ -5,7 +5,8 @@ public class TestScanner {
             Scanner s = new Scanner(System.in);
             int a = s.nextInt();
             System.out.println("第一个整数："+a);
-            int b = s.nextInt();
-            System.out.println("第二个整数："+b);
+            String b=s.next();
+            System.out.println("这一行的字符串:"+b);
+
         }
 }

@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/sort/QuickSort2.java" line="21" />
+    <bookmark url="file://$PROJECT_DIR$/src/sort/QuickSort.java" line="64" />
+    <bookmark url="file://$PROJECT_DIR$/src/sort/QuickSort2.java" line="7" />
+    <bookmark url="file://$PROJECT_DIR$/src/sort/SheelSortDemo.java" line="13" />
+    <bookmark url="file://$PROJECT_DIR$/src/sort/SheelSortDemo.java" line="10" />
+    <bookmark url="file://$PROJECT_DIR$/src/sort/SheelSortDemo.java" line="37" />
+    <bookmark url="file://$PROJECT_DIR$/src/InstanceDemo.java" line="32" />
+    <bookmark url="file://$PROJECT_DIR$/src/FIbnacciAndFactorial.java" line="6" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="869cb45d-8309-4749-96bc-6acc11ca07a8" name="Default" comment="test                                                                                 1">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/EnumDemo/EnumDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/EnumDemo/FreshJuice$FreshJuiceSize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/EnumDemo/FreshJuice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/ExchangeTwoNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/FIbnacciAndFactorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/GenericMethodTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/GetInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/InstanceDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/Multithreading/RunnableDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/Multithreading/TestThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/NumberTrain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/PermutationAndCombination.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/Person1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/QRCode/QRCodeUtil$J2SEImage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/QRCode/QRCodeUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/RandomNumberArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/TestScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/TransientTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/WalkWays/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/debugTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/mysql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/peotectedDemo2/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/peotectedDemo2/E.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/protectedDemo1/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/protectedDemo1/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/protectedDemo1/D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/reflectDemo/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/sort/BubbleSortDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/sort/ChooseSortDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/sort/InsertionSortDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/sort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/sort/QuickSort2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/sort/SheelSortDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Basic/switchDemo/SwitchDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new_start_2019/ClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new_start_2019/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new_start_2019/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new_start_2019/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new_start_2019/Puppy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new_start_2019/TypeConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new_start_2019/abstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new_start_2019/byteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new_start_2019/protectedTest/p1/Father1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new_start_2019/protectedTest/p1/Son1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new_start_2019/protectedTest/p1/Son2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new_start_2019/protectedTest/p2/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FIbnacciAndFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FIbnacciAndFactorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GetInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GetInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InstanceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InstanceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WalkWays/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WalkWays/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mysql.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mysql.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/protectedDemo1/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/protectedDemo1/A.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="byteTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/new_start_2019/byteTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Father1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/new_start_2019/protectedTest/p1/Father1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="abstractTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/new_start_2019/abstractTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VolatileTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/new_start_2019/VolatileTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <folding>
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OperatorTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/new_start_2019/OperatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConditionalOperator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/new_start_2019/ConditionalOperator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Son2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/new_start_2019/protectedTest/p1/Son2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Son1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/new_start_2019/protectedTest/p1/Son1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/new_start_2019/protectedTest/p2/B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/new_start_2019/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Test</find>
+      <find>QuickSort</find>
+      <find>bound</find>
+      <find>array</find>
+      <find>array1</find>
+      <find>rightpoint</find>
+      <find>increment</find>
+      <find>，</find>
+      <find>GBK</find>
+      <find>tran</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>InstanceDemo</replace>
+      <replace>arr</replace>
+      <replace>QuickSort2</replace>
+      <replace>array</replace>
+      <replace>leftPoint</replace>
+      <replace>rightPoint</replace>
+      <replace>incrementNumber</replace>
+      <replace>,</replace>
+      <replace>UTF-8</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/EnumDemo/EnumDemo.java" />
+        <option value="$PROJECT_DIR$/src/switchDemo/SwitchDemo.java" />
+        <option value="$PROJECT_DIR$/src/protectedDemo1/A.java" />
+        <option value="$PROJECT_DIR$/src/protectedDemo1/D.java" />
+        <option value="$PROJECT_DIR$/src/peotectedDemo2/E.java" />
+        <option value="$PROJECT_DIR$/src/TrasientDemo.java" />
+        <option value="$PROJECT_DIR$/src/peotectedDemo2/C.java" />
+        <option value="$PROJECT_DIR$/src/protectedDemo1/B.java" />
+        <option value="$PROJECT_DIR$/src/sort/ExchangeTwoNumber.java" />
+        <option value="$PROJECT_DIR$/src/ExchangeTwoNumber.java" />
+        <option value="$PROJECT_DIR$/src/sort/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/sort/ChooseSort.java" />
+        <option value="$PROJECT_DIR$/src/sort/ChooseSortDemo.java" />
+        <option value="$PROJECT_DIR$/src/sort/QuickSort2.java" />
+        <option value="$PROJECT_DIR$/src/sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/sort/InsertionSortDemo.java" />
+        <option value="$PROJECT_DIR$/src/sort/SheelSortDemo.java" />
+        <option value="$PROJECT_DIR$/src/sort/BubbleSortDemo.java" />
+        <option value="$PROJECT_DIR$/src/switchDemo/Person1.java" />
+        <option value="$PROJECT_DIR$/src/demo1.java" />
+        <option value="$PROJECT_DIR$/src/QRCode/QRCodeUtil.java" />
+        <option value="$PROJECT_DIR$/src/QRCode/qrcode.html" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/EnumTest.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/bytetest.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/TypeConversion.java" />
+        <option value="$PROJECT_DIR$/src/RandomNumberArray.java" />
+        <option value="$PROJECT_DIR$/src/demo.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/Demo.java" />
+        <option value="$PROJECT_DIR$/src/TestScanner.java" />
+        <option value="$PROJECT_DIR$/src/TestException.java" />
+        <option value="$PROJECT_DIR$/src/Person1.java" />
+        <option value="$PROJECT_DIR$/src/mysql.java" />
+        <option value="$PROJECT_DIR$/src/InstanceDemo.java" />
+        <option value="$PROJECT_DIR$/src/GetInput.java" />
+        <option value="$PROJECT_DIR$/src/FIbnacciAndFactorial.java" />
+        <option value="$PROJECT_DIR$/src/WalkWays/Demo.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/ClassTest.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/Puppy.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/byteTest.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/protectedTest/p1/A.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/protectedTest/p1/Son1.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/protectedTest/p1/Son2.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/protectedTest/p1/Father1.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/protectedTest/p2/B.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/abstractTest.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/VolatileTest.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/Test.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/OperatorTest.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/ConditionalOperator.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="G:\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1008" />
+    <option name="width" value="964" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="new_start_2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="peotectedDemo2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="WalkWays" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="H:/git/mingw64/bin/git.exe" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\IDEAProject\Basic\src\QRCode\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\IDEAProject\Basic\src\QRCode" />
+      <recent name="H:\IDEAProject\Basic\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ConditionalOperator">
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="new_start_2019.protectedTest.p2.B" />
+      <module name="Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="new_start_2019.protectedTest.p2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="new_start_2019.ClassTest" />
+      <module name="Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="new_start_2019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ConditionalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="new_start_2019.ConditionalOperator" />
+      <module name="Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="new_start_2019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Puppy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="new_start_2019.Puppy" />
+      <module name="Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="new_start_2019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="byteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="new_start_2019.byteTest" />
+      <module name="Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="new_start_2019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClassTest" />
+      <item itemvalue="Application.Puppy" />
+      <item itemvalue="Application.byteTest" />
+      <item itemvalue="Application.B" />
+      <item itemvalue="Application.ConditionalOperator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConditionalOperator" />
+        <item itemvalue="Application.B" />
+        <item itemvalue="Application.byteTest" />
+        <item itemvalue="Application.Puppy" />
+        <item itemvalue="Application.ClassTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="869cb45d-8309-4749-96bc-6acc11ca07a8" name="Default" comment="" />
+      <created>1540031868633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540031868633</updated>
+      <workItem from="1540031870012" duration="622000" />
+      <workItem from="1540034492427" duration="76000" />
+      <workItem from="1540119991625" duration="4096000" />
+      <workItem from="1540124158742" duration="806000" />
+      <workItem from="1540177086708" duration="4650000" />
+      <workItem from="1540195359683" duration="1847000" />
+      <workItem from="1540197317138" duration="1619000" />
+      <workItem from="1540255717886" duration="5569000" />
+      <workItem from="1540434013722" duration="1225000" />
+      <workItem from="1540453152660" duration="4418000" />
+      <workItem from="1540538045846" duration="2317000" />
+      <workItem from="1540550434286" duration="1799000" />
+      <workItem from="1540721356556" duration="2266000" />
+      <workItem from="1540775650964" duration="1257000" />
+      <workItem from="1540877228013" duration="719000" />
+      <workItem from="1540877970032" duration="115000" />
+      <workItem from="1540897422559" duration="2197000" />
+      <workItem from="1540984540761" duration="1628000" />
+      <workItem from="1540986193944" duration="588000" />
+      <workItem from="1541769519493" duration="24473000" />
+      <workItem from="1541992530906" duration="29435000" />
+      <workItem from="1542034520128" duration="2639000" />
+      <workItem from="1542179006351" duration="14000" />
+      <workItem from="1542179371485" duration="200000" />
+      <workItem from="1542179585689" duration="1630000" />
+      <workItem from="1542182245161" duration="10000" />
+      <workItem from="1542183967599" duration="5000" />
+      <workItem from="1542194380094" duration="154000" />
+      <workItem from="1542239666582" duration="1196000" />
+      <workItem from="1542263399660" duration="929000" />
+      <workItem from="1542264494044" duration="2294000" />
+      <workItem from="1542272183050" duration="1368000" />
+      <workItem from="1542332797786" duration="22000" />
+      <workItem from="1542336920336" duration="1841000" />
+      <workItem from="1542369911424" duration="647000" />
+      <workItem from="1542370583960" duration="1140000" />
+      <workItem from="1542467594535" duration="6529000" />
+      <workItem from="1546682128123" duration="3052000" />
+      <workItem from="1551349339844" duration="13640000" />
+      <workItem from="1551435009135" duration="46000" />
+      <workItem from="1551607949111" duration="6440000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1540899314298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540899314299</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1540899626773</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540899626773</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1540984994351</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540984994351</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <created>1540985118584</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540985118584</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test                                                                                 1">
+      <created>1540986479965</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540986479965</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test                                                                                 1">
+      <created>1541826155609</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1541826155609</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test                                                                                 1">
+      <created>1541904013462</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1541904013462</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test                                                                                 1">
+      <created>1541904076039</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1541904076039</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test                                                                                 1">
+      <created>1541904108535</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1541904108535</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test                                                                                 1">
+      <created>1542003838298</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1542003838299</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test                                                                                 1">
+      <created>1542370094877</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1542370094877</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test                                                                                 1">
+      <created>1542370653144</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1542370653144</updated>
+    </task>
+    <task id="LOCAL-00013" summary="test                                                                                 1">
+      <created>1542508894930</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1542508894930</updated>
+    </task>
+    <task id="LOCAL-00014" summary="test                                                                                 1">
+      <created>1542508966305</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1542508966305</updated>
+    </task>
+    <task id="LOCAL-00015" summary="test                                                                                 1">
+      <created>1546684676076</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1546684676076</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="135518000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32763532" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.6343115" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.49128687" side_tool="true" weight="0.33048433" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297587" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4899464" side_tool="true" weight="0.5156695" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5087131" visible="true" weight="0.34301677" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4725201" weight="0.632171" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49777284" visible="true" weight="0.1613076" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3297587" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32844242" />
+      <window_info id="Structure" order="1" sideWeight="0.5022272" side_tool="true" weight="0.12473233" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3903134" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="test                                                                                 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test                                                                                 1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="22" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/protectedDemo1/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/protectedDemo1/D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/protectedDemo1/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK8/src.zip!/java/lang/String.java" />
+    <entry file="file://$PROJECT_DIR$/src/ExchangeTwoNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/QuickSort2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/debugTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo1.java" />
+    <entry file="file://$PROJECT_DIR$/src/sort/BubbleSortDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/ChooseSortDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/InsertionSortDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/switchDemo/SwitchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QRCode/QRCodeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="111" column="9" selection-start-line="111" selection-start-column="9" selection-end-line="111" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QRCode/qrcode.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/peotectedDemo2/C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/EnumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/SheelSortDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/TypeConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1085">
+          <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/QuickSort2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="33" column="52" lean-forward="true" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TransientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="49" column="16" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RandomNumberArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo.java" />
+    <entry file="file://$PROJECT_DIR$/src/TestScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Person1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PermutationAndCombination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumberTrain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.class" />
+    <entry file="file://$PROJECT_DIR$/src/mysql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InstanceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GetInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenericMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FIbnacciAndFactorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1271">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WalkWays/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/ClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding>
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/Puppy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/protectedTest/p1/p2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/byteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/protectedTest/p1/Son1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/protectedTest/p1/Son2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/protectedTest/p2/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/protectedTest/p1/Father1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/abstractTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/VolatileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/OperatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/ConditionalOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Basic</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
