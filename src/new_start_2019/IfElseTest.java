@@ -2,14 +2,21 @@ package new_start_2019;
 
 public class IfElseTest {
     public static void main(String[] args) {
-        int x = 30, y = 20;
-        if (x < 20) {
-            System.out.println("true");
+        IfElseTest a = new IfElseTest();
+        a.printGrade(20);
+    }
+
+    public void printGrade(double score) {
+        if (score > 90) {
+            System.out.println("A");
+        } else if (score > 80) {
+            System.out.println('B');
+        } else if (score > 70) {
+            System.out.println('C');
+        } else if (score > 60) {
+            System.out.println('D');
         } else {
-            System.out.println("false");
-        }
-        if (x == 30 && y == 20) {
-            System.out.println(true);
+            System.out.println('E');
         }
     }
 }
