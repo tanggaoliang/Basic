@@ -7,11 +7,11 @@ package new_start_2019;
 
 import java.util.Scanner;
 
-class InsufficientFundsEcxeption extends Exception {
+class InsufficientFundsException extends Exception {
     private double amount;
     //此处的amount用来储存当出现异常（取出钱多于余额时）所缺乏的钱
 
-    public InsufficientFundsEcxeption(double amount) {
+    public InsufficientFundsException(double amount) {
         this.amount = amount;
         System.out.println("money is not enough , you need " + amount + " more .");
     }
@@ -46,8 +46,8 @@ class CheckingAccount {
         } else {
             double needs = amount - balance;
             try {
-                throw new InsufficientFundsEcxeption(needs);
-            } catch (InsufficientFundsEcxeption insufficientFundsEcxeption) {
+                throw new InsufficientFundsException(needs);
+            } catch (InsufficientFundsException insufficientFundsEcxeption) {
 //                insufficientFundsEcxeption.printStackTrace();
 //          一旦打印了错误信息程序就会终止运行,所以不能打印
             }
