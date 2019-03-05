@@ -11,7 +11,14 @@
     <bookmark url="file://$PROJECT_DIR$/src/FIbnacciAndFactorial.java" line="6" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="869cb45d-8309-4749-96bc-6acc11ca07a8" name="Default" comment="test                                                                                 1">
+    <list default="true" id="869cb45d-8309-4749-96bc-6acc11ca07a8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/new_start_2019/BankDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new_start_2019/DirectoryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new_start_2019/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new_start_2019/ScannerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new_start_2019/steam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/steam.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,6 +33,9 @@
     <option name="groupingKeys">
       <option value="directory" />
     </option>
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -46,20 +56,55 @@
       <file leaf-file-name="StreamDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/new_start_2019/StreamDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="41" column="53" lean-forward="true" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+            <state relative-caret-position="1147">
+              <caret line="41" column="53" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DirectoryDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/new_start_2019/DirectoryDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1426">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScannerDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/new_start_2019/ScannerDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1023">
+              <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExceptionDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/new_start_2019/ExceptionDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               <folding>
-                <element signature="e#0#131#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DirectoryDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/new_start_2019/DirectoryDemo.java">
+      <file leaf-file-name="BankDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/new_start_2019/BankDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+            <state relative-caret-position="155">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+              <folding>
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#959#960#0" expanded="true" />
+                <element signature="e#988#989#0" expanded="true" />
+                <element signature="e#1018#1019#0" expanded="true" />
+                <element signature="e#1047#1048#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,10 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/switchDemo/Person1.java" />
-        <option value="$PROJECT_DIR$/src/demo1.java" />
-        <option value="$PROJECT_DIR$/src/QRCode/QRCodeUtil.java" />
-        <option value="$PROJECT_DIR$/src/QRCode/qrcode.html" />
         <option value="$PROJECT_DIR$/src/new_start_2019/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/new_start_2019/EnumTest.java" />
         <option value="$PROJECT_DIR$/src/new_start_2019/bytetest.java" />
@@ -157,6 +198,10 @@
         <option value="$PROJECT_DIR$/src/new_start_2019/FinalizeDemo.java" />
         <option value="$PROJECT_DIR$/src/new_start_2019/StreamDemo.java" />
         <option value="$PROJECT_DIR$/src/new_start_2019/DirectoryDemo.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/ScannerDemo.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/ExceptionDemo.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/BankExceptionDemo.java" />
+        <option value="$PROJECT_DIR$/src/new_start_2019/BankDemo.java" />
       </list>
     </option>
   </component>
@@ -179,7 +224,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1035" />
     <option name="width" value="888" />
     <option name="height" value="1034" />
@@ -192,7 +237,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,10 +255,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="new_start_2019" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="new_start_2019" type="462c0819:PsiDirectoryNode" />
+              <item name="BankDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
@@ -228,7 +280,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -251,7 +303,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DirectoryDemo">
+  <component name="RunManager" selected="Application.BankDemo">
+    <configuration name="BankDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="new_start_2019.BankDemo" />
+      <module name="Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="new_start_2019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="DirectoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="new_start_2019.DirectoryDemo" />
       <module name="Basic" />
@@ -262,8 +324,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FinalizeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="new_start_2019.FinalizeDemo" />
+    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="new_start_2019.ExceptionDemo" />
       <module name="Basic" />
       <extension name="coverage">
         <pattern>
@@ -272,8 +334,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="IfElseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="new_start_2019.IfElseTest" />
+    <configuration name="ScannerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="new_start_2019.ScannerDemo" />
       <module name="Basic" />
       <extension name="coverage">
         <pattern>
@@ -284,16 +346,6 @@
     </configuration>
     <configuration name="StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="new_start_2019.StreamDemo" />
-      <module name="Basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="new_start_2019.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="VariableParametersTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="new_start_2019.VariableParametersTest" />
       <module name="Basic" />
       <extension name="coverage">
         <pattern>
@@ -318,19 +370,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.IfElseTest" />
-      <item itemvalue="Application.VariableParametersTest" />
-      <item itemvalue="Application.FinalizeDemo" />
       <item itemvalue="Application.StreamDemo" />
       <item itemvalue="Application.DirectoryDemo" />
+      <item itemvalue="Application.ScannerDemo" />
+      <item itemvalue="Application.ExceptionDemo" />
+      <item itemvalue="Application.BankDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BankDemo" />
+        <item itemvalue="Application.ExceptionDemo" />
+        <item itemvalue="Application.ScannerDemo" />
         <item itemvalue="Application.DirectoryDemo" />
         <item itemvalue="Application.StreamDemo" />
-        <item itemvalue="Application.FinalizeDemo" />
-        <item itemvalue="Application.VariableParametersTest" />
-        <item itemvalue="Application.IfElseTest" />
       </list>
     </recent_temporary>
   </component>
@@ -387,7 +439,9 @@
       <workItem from="1551607949111" duration="6861000" />
       <workItem from="1551616875685" duration="848000" />
       <workItem from="1551663170993" duration="13392000" />
-      <workItem from="1551697230250" duration="3943000" />
+      <workItem from="1551697230250" duration="5160000" />
+      <workItem from="1551750890794" duration="6359000" />
+      <workItem from="1551772259086" duration="3296000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1540899314298</created>
@@ -522,11 +576,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551699877680</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="test                                                                                 1">
+      <created>1551701187263</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1551701187263</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154122000" />
+    <option name="totallyTimeSpent" value="164994000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -538,32 +599,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1035" y="0" width="888" height="1034" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32763532" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.633526" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3265074" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.63253695" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.49128687" side_tool="true" weight="0.33048433" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5087131" visible="true" weight="0.33641618" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4899464" side_tool="true" weight="0.5156695" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5087131" weight="0.33560863" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4725201" weight="0.632171" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49777284" weight="0.27083334" />
+      <window_info anchor="bottom" id="Problems" order="12" />
       <window_info anchor="right" id="Database" order="3" weight="0.3297587" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32764506" />
       <window_info id="Structure" order="1" sideWeight="0.5022272" side_tool="true" weight="0.12473233" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3892078" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3892078" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -833,9 +895,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/new_start_2019/DSA.java" />
     <entry file="file://$PROJECT_DIR$/src/new_start_2019/FSD.java" />
-    <entry file="file://$PROJECT_DIR$/src/new_start_2019/StringTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/new_start_2019/StringBuilderAndStringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
@@ -882,9 +941,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -899,9 +955,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
           <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#143#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -912,42 +965,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/new_start_2019/test.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/new_start_2019/DateTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
           <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/StreamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1147">
+          <caret line="41" column="53" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/DirectoryDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1426">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/ScannerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1023">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/ExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/new_start_2019/steam.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/new_start_2019/StreamDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/new_start_2019/BankDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="41" column="53" lean-forward="true" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+        <state relative-caret-position="155">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
           <folding>
-            <element signature="e#0#131#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1047#1048#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/new_start_2019/DirectoryDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
@@ -1009,6 +1093,17 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
