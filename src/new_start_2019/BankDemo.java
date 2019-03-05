@@ -71,9 +71,10 @@ public class BankDemo {
         CheckingAccount checkingAccount = null;
         boolean numberPass = false;
         boolean quit = false;
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("please input your card number:");
+        Scanner scanner = null;
         while (!numberPass) {
+            System.out.println("please input your card number:");
+            scanner = new Scanner(System.in);
             if (scanner.hasNextInt()) {
                 checkingAccount = new CheckingAccount(scanner.nextInt());
                 numberPass = true;
