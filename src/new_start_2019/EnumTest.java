@@ -1,7 +1,16 @@
 package new_start_2019;
 
 class FreshJuice {
-    enum FreshJuiceSize {SMALL, MEDIUM, LARGE}
+
+
+    enum FreshJuiceSize {
+        /**
+         * small cup
+         * medium cup
+         * large cup
+         */
+        SMALL, MEDIUM, LARGE
+    }
 
     FreshJuiceSize size;
 }

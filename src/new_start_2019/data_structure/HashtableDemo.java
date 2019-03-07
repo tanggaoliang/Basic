@@ -71,7 +71,7 @@ public class HashtableDemo {
         Hashtable balance = new Hashtable();
         Enumeration names;
         String string;
-        double double_blance;
+        double doubleBlance;
 
         balance.put("tang", 3434.34);
         balance.put("he", 123.22);
@@ -84,8 +84,8 @@ public class HashtableDemo {
             string=(String)names.nextElement();
             System.out.println(string+" : "+balance.get(string) );
         }
-        double_blance=((Double)balance.get("tang")).doubleValue();
-        balance.put("tang",double_blance+1000);
+        doubleBlance=((Double)balance.get("tang")).doubleValue();
+        balance.put("tang",doubleBlance+1000);
         System.out.println("tang's is a new balance "+balance.get("tang"));
         names=balance.keys();
         while (names.hasMoreElements()){

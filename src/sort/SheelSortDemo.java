@@ -9,7 +9,7 @@ public class SheelSortDemo {
         //int[] arr = {9, 38, 81, 33, 71, 72, 88, 76, 84, 2, 10, 25, 63, 3, 56, 64, 26, 13, 79, 12, 20, 99, 37, 85, 60, 39, 51, 55, 34, 8, 98, 40, 29, 65, 11, 14, 90, 22, 1, 31, 42, 41, 53, 52, 30, 96, 45, 47, 48, 21, 50, 43, 57, 62, 73, 4, 66, 19, 28, 97, 24, 61, 16, 67, 91, 59, 94, 23, 68, 7, 82, 18, 70, 35, 74, 75, 89, 77, 78, 6, 17, 46, 15, 83, 92, 86, 58, 80, 54, 44, 93, 69, 27, 32, 49, 95, 87, 5, 0, 36};
         //int[] arr = {3, 2, 4,1};
         System.out.println(Arrays.toString(arr));
-        //Sheelsort(arr);
+        //sheelSort(arr);
         sort2(arr);
         System.out.println(Arrays.toString(arr));
 
@@ -26,16 +26,16 @@ public class SheelSortDemo {
             for (i = incrementNumber; i < len; i++) {
                 tmp = arr[i];
                 j = i - incrementNumber;
-                System.out.println("---" + Arrays.toString(arr) + " ,i=" + i + ",j=" + j+" increment ="+incrementNumber);
+                System.out.println("---" + Arrays.toString(arr) + " ,i=" + i + ",j=" + j + " increment =" + incrementNumber);
                 // 一轮排序
                 while (j >= 0 && arr[j] > tmp) {
                     arr[j + incrementNumber] = arr[j];
                     j -= incrementNumber;
-                    System.out.println("000" + Arrays.toString(arr) + " ,i=" + i + ",j=" + j+" increment ="+incrementNumber);
+                    System.out.println("000" + Arrays.toString(arr) + " ,i=" + i + ",j=" + j + " increment =" + incrementNumber);
 
                 }
                 arr[j + incrementNumber] = tmp;
-                System.out.println("111" + Arrays.toString(arr) + " ,i=" + i + ",j=" + j+" increment ="+incrementNumber);
+                System.out.println("111" + Arrays.toString(arr) + " ,i=" + i + ",j=" + j + " increment =" + incrementNumber);
             }
             incrementNumber = incrementNumber / 2;
 //            System.out.println(i + ":" + Arrays.toString(arr));
@@ -46,18 +46,14 @@ public class SheelSortDemo {
     private static void sort2(int[] a) {
         int i, j, len = a.length, temp, increment = len / 2;
         while (increment >= 1) {
-            for (i =len- increment; i >= 0; i--) {
+            for (i = len - increment; i >= 0; i--) {
                 temp = a[i];
                 j = i + increment;
-//                System.out.println("---" + Arrays.toString(a) + " ,i=" + i + ",j=" + j+" increment ="+increment);
                 while (j < len && a[j] < temp) {
                     a[j - increment] = a[j];
-//                    System.out.println("000" + Arrays.toString(a) + " ,i=" + i + ",j=" + j+" increment ="+increment);
                     j += increment;
                 }
                 a[j - increment] = temp;
-//                System.out.println("111" + Arrays.toString(a) + " ,i=" + i + ",j=" + j+" increment ="+increment);
-
             }
             increment = increment / 2;
 
@@ -65,9 +61,10 @@ public class SheelSortDemo {
 
     }
 
-    private static void Sheelsort(int[] arr) {
+    private static void sheelSort(int[] arr) {
+        int baseSize = 2;
         int arr_length = arr.length;
-        if (arr_length < 2) {
+        if (arr_length < baseSize) {
             return;
         }
         int incrementNumber = arr_length / 2;

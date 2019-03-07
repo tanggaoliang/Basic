@@ -66,9 +66,10 @@ public class HashDemo {
         System.out.println("map:" + map);
         Person p = person.newInstance(3);  //创建一个编号为3的人，并在map中查找此人性别
         System.out.println("查找某人性别" + p);
-        if (map.containsKey(p))
+        if (map.containsKey(p)) {
             System.out.println(map.get(p));
-        else
+        } else {
             System.out.println("无此人");
+        }
     }
 }

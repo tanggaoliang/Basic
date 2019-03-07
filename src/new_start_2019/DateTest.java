@@ -11,7 +11,7 @@ import java.util.Date;
 public class DateTest {
     public static void main(String[] args) {
         long start=System.currentTimeMillis();
-        String a = new SimpleDateFormat("YYYY/MM/dd HH:mm:ss").format(new Date());
+        String a = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss").format(new Date());
         System.out.println(a);
         long end=System.currentTimeMillis();
         System.out.println("the time has passed "+(end-start)+" 微秒");

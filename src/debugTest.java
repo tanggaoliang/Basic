@@ -5,10 +5,11 @@ public class debugTest {
         int day = 10;
         int sum = 0;
         for (int i = 1; i <= day; i++) {
-            if (0 == moneyEachDay)
+            if (0 == moneyEachDay) {
                 moneyEachDay = 1;
-            else
+            } else {
                 moneyEachDay *= 2;
+            }
 
             sum += moneyEachDay;
 

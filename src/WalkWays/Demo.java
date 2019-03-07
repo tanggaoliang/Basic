@@ -26,7 +26,9 @@ public class Demo {
 
     }
     private static int reverseIntHelper(int i, int init){
-        if(i==0) return init;
+        if(i==0) {
+            return init;
+        }
         return reverseIntHelper(i/10, init*10+i%10);
     }
 

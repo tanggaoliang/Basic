@@ -21,12 +21,12 @@ import java.io.*;
 //        上面的方法序列化一个对象，并将它发送到输出流。相似的 ObjectInputStream 类包含如下反序列化一个对象的方法：
 //
 //          public final Object readObject() throws IOException,
-//        ClassNotFoundException
+//        ClassnotFoundException
 //        该方法从流中取出下一个对象，并将对象反序列化。它的返回值为Object，因此，你需要将它转换成合适的数据类型。
 class Employee implements Serializable {
     public String name;
     public String address;
-    public transient int SSN;
+    public transient int ssn;
     public int number;
 
     @Override
@@ -34,12 +34,12 @@ class Employee implements Serializable {
         return "SerializeDemo{" +
                 "name='" + name + '\'' +
                 ", address='" + address + '\'' +
-                ", SSN=" + SSN +
+                ", ssn=" + ssn +
                 ", number=" + number +
                 '}';
     }
 
-    public String Info() {
+    public String info() {
         return this.toString();
     }
 
@@ -50,7 +50,7 @@ public class SerializeDemo {
         Employee employee = new Employee();
         employee.name = "tang";
         employee.address = "zong yang";
-        employee.SSN = 1440535574;
+        employee.ssn = 1440535574;
         employee.number = 15035037;
         try {
             FileOutputStream fileOutputStream = new FileOutputStream("employee.ser");
@@ -62,7 +62,7 @@ public class SerializeDemo {
             FileInputStream fileInputStream = new FileInputStream("employee.ser");
             ObjectInputStream objectInputStream=new ObjectInputStream(fileInputStream);
             Employee employee1=(Employee)objectInputStream.readObject();
-            System.out.println(employee1.Info());
+            System.out.println(employee1.info());
 
         } catch (Exception e) {
             e.printStackTrace();

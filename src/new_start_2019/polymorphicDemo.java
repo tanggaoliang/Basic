@@ -22,11 +22,16 @@ import peotectedDemo2.C;
 
 //        当使用多态方式调用方法时，首先检查父类中是否有该方法，如果没有，则编译错误；如果有，再去调用子类的同名方法。
 //        多态的好处：可以使程序有良好的扩展，并可以对所有类的对象进行通用处理。
-abstract class Animal {
+
+abstract class AbstractAnimal {
+    /*
+     * eat
+     */
     abstract void eat();
 }
 
-class Cat extends Animal {
+class Cat extends AbstractAnimal {
+    @Override
     public void eat() {
         System.out.println("eat fish");
     }
@@ -36,7 +41,7 @@ class Cat extends Animal {
     }
 }
 
-class Dog extends Animal {
+class Dog extends AbstractAnimal {
     @Override
     void eat() {
         System.out.println("eat bones");
@@ -48,13 +53,13 @@ class Dog extends Animal {
 }
 
 public class polymorphicDemo {
-    public static void show(Animal animal) {
-        animal.eat();
-        if (animal instanceof Cat) {
-            Cat cat = (Cat) animal;
+    public static void show(AbstractAnimal AbstractAnimal) {
+        AbstractAnimal.eat();
+        if (AbstractAnimal instanceof Cat) {
+            Cat cat = (Cat) AbstractAnimal;
             cat.work();
-        } else if (animal instanceof Dog) {
-            Dog dog = (Dog) animal;
+        } else if (AbstractAnimal instanceof Dog) {
+            Dog dog = (Dog) AbstractAnimal;
             dog.work();
         }
     }
@@ -63,8 +68,8 @@ public class polymorphicDemo {
         show(new Cat());
         show(new Dog());
 
-        Animal animal = new Cat();
-        animal.eat();
+        AbstractAnimal AbstractAnimal = new Cat();
+        AbstractAnimal.eat();
         Cat cat = new Cat();
         cat.work();
     }

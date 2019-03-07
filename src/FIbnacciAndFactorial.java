@@ -37,7 +37,7 @@ public class FIbnacciAndFactorial {
 
     }
 
-    public static long Factorial(int n) {
+    public static long factorial(int n) {
         long result = 1, i = 2;
         if (n == 1) {
             return 1;

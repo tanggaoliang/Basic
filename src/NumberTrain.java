@@ -17,19 +17,19 @@ public class NumberTrain {
                 System.out.println("create directory failed.");
             }
 
-        }else{
+        } else {
             System.out.println("directory is existed!");
             System.out.println();
         }
 
         while (i > 0) {
             System.out.println(dir.getName());
-            File file = new File( dir.getAbsolutePath()+"/26字母" + i + ".txt");
+            File file = new File(dir.getAbsolutePath() + "/26字母" + i + ".txt");
             boolean createFile = file.createNewFile();
             if (createFile) {
-                //content = CreateContent(6);
-                //content = CharContent(4);
-                content=TwentySix(50);
+                //content = createContent(6);
+                //content = charContent(4);
+                content = twentySix(50);
                 PrintStream ps = new PrintStream(new FileOutputStream(file));
                 ps.print(content);
                 i--;
@@ -40,7 +40,7 @@ public class NumberTrain {
         }
     }
 
-    private static String CreateContent(int i) {
+    private static String createContent(int i) {
         StringBuilder sb = new StringBuilder();
         int time = 300;
         int number;
@@ -57,9 +57,9 @@ public class NumberTrain {
         return sb.toString();
     }
 
-    private static String CharContent(int i) {
+    private static String charContent(int i) {
         StringBuilder sb = new StringBuilder();
-        char charArray[] = new char[]{'q', 'w', 'e', 'r', 'a', 's', 'd', 'f', 'z', 'x', 'c', 'v'};
+        char[] charArray = new char[]{'q', 'w', 'e', 'r', 'a', 's', 'd', 'f', 'z', 'x', 'c', 'v'};
         int time = 300;
         while (time > 0) {
             char str;
@@ -78,7 +78,7 @@ public class NumberTrain {
 
     }
 
-    private static String TwentySix(int i) {
+    private static String twentySix(int i) {
         StringBuilder sb = new StringBuilder();
         String str = "abcdefghijklmnopqrstuvwxyz";
         for (int j = 1; j <= i; j++) {
