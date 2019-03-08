@@ -66,6 +66,7 @@ import java.util.Hashtable;
 //        返回此哈希表中的键的数量。
 //        14	String toString( )
 //        返回此 Hashtable 对象的字符串表示形式，其形式为 ASCII 字符 ", " （逗号加空格）分隔开的、括在括号中的一组条目。
+
 public class HashtableDemo {
     public static void main(String[] args) {
         Hashtable balance = new Hashtable();
@@ -79,20 +80,22 @@ public class HashtableDemo {
         balance.put("zhang", -19.08);
         balance.put("lei", 1378.00);
 
-        names=balance.keys();
-        while (names.hasMoreElements()){
-            string=(String)names.nextElement();
-            System.out.println(string+" : "+balance.get(string) );
-        }
+        myPrint(balance);
         doubleBlance=((Double)balance.get("tang")).doubleValue();
         balance.put("tang",doubleBlance+1000);
         System.out.println("tang's is a new balance "+balance.get("tang"));
+        myPrint(balance);
+
+    }
+
+    private static void myPrint(Hashtable balance) {
+        Enumeration names;
+        String string;
         names=balance.keys();
         while (names.hasMoreElements()){
             string=(String)names.nextElement();
             System.out.println(string+" : "+balance.get(string) );
         }
-
     }
 
 }

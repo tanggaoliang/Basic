@@ -28,6 +28,7 @@ public class ParamPasssing {
         stringBuilderStatic2.append("2");
         stringBuilderStatic1 = new StringBuilder("new StringBuilder");
         stringBuilderStatic1.append("3");
+        System.out.println("in method stringBuilderStatic : "+stringBuilderStatic1);
 
 
     }
