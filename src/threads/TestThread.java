@@ -16,14 +16,14 @@ class RunnableDemo implements Runnable {
         System.out.println("Running " + threadName);
         try {
             for (int i = threadNumber; i > 0; i--) {
-                System.out.println("Thread: " + threadName + ", " + i);
+                System.out.println("thread: " + threadName + ", " + i);
                 // 让线程睡眠一会
                 Thread.sleep(50);
             }
         } catch (InterruptedException e) {
-            System.out.println("Thread " + threadName + " interrupted.");
+            System.out.println("thread " + threadName + " interrupted.");
         }
-        System.out.println("Thread " + threadName + " exiting.");
+        System.out.println("thread " + threadName + " exiting.");
     }
 
     void start() {
@@ -45,10 +45,10 @@ public class TestThread {
 
 
     public static void main(String[] args) {
-        RunnableDemo r1 = new RunnableDemo("Thread-1");
+        RunnableDemo r1 = new RunnableDemo("thread-1");
         r1.start();
 
-        RunnableDemo r2 = new RunnableDemo("Thread-2");
+        RunnableDemo r2 = new RunnableDemo("thread-2");
         r2.start();
     }
 }

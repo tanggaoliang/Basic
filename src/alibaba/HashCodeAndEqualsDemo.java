@@ -43,9 +43,7 @@ public class HashCodeAndEqualsDemo {
         if (obj == null || this.getClass() != obj.getClass()) {
             return false;
         }
-        if (this == obj) {
-            return true;
-        }
+        if (this == obj) return true;
         HashCodeAndEqualsDemo temp = (HashCodeAndEqualsDemo) obj;
         if (id == temp.getId() && name.equals(temp.getName())) {
             return true;
