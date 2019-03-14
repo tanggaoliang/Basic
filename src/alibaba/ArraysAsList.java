@@ -17,12 +17,15 @@ public class ArraysAsList {
         List<String> stringList = new ArrayList<String>(Arrays.asList(stringArray));
         stringList.set(0, "oneList");
         System.out.println(stringArray[0]);
+        System.out.println(stringList.get(0));
         stringList.add("four");
         System.out.println(stringList.get(2));
         String [] array1=new String[stringList.size()];
         //集合转字符串数组
         stringList.toArray(array1);
         System.out.println(Arrays.toString(array1));
+        array1[0]="change";
+        System.out.println(stringList.get(0));
 
 
     }
